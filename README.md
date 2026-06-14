@@ -3,6 +3,18 @@ english
 
 ---
 
+# list
+
+| URL | 新単語 (1) | 重要表現 (3) | 要約 (3) |
+| [url](xxx) | xxx | xxx | xxx |
+
+| URL | 新単語 (1) | 重要表現 (3) | 要約 (3) |
+|---|---|---|---|
+| [url](xxx) | xxx | xxx | xxx |
+
+
+---
+
 [Los Angeles after the flames/URL](https://www.economist.com/interactive/united-states/2025/12/30/los-angeles-after-the-flames)  
 
 # 要点整理
