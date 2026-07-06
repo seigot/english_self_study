@@ -4,6 +4,10 @@ english_self_study
 
 ---
 
+# vocabulary
+
+mochitan [mochitan](https://motitown.com/vocabulary/toeic/toeic900/)    
+
 # list
 
 | URL | 新単語 (1) | 重要表現 (1) | 要約 (3) |
